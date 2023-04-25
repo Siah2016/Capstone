@@ -1,0 +1,190 @@
+,Name,Park,Material_Type,Seating_Type,Speed,Height,Length,Manufacturer,City,State,Country
+0,Afterburn,Carowinds,Steel,Inverted,100.0,34.0,900.0,B&M,Charlotte,North Carolina,United States
+2,American Thunder,Six Flags St. Louis,Wooden,Sit Down,77.0,25.0,827.0,GCI,Eureka,Missouri,United States
+3,Apocalypse,Six Flags Magic Mountain,Wooden,Sit Down,89.0,31.0,869.0,GCI,Valencia,California,United States
+4,Apollo's Chariot,Busch Gardens Williamsburg,Steel,Sit Down,118.0,52.0,1488.0,B&M,Williamsburg,Virginia,United States
+6,Balder,Liseberg,Wooden,Sit Down,90.0,36.0,1070.0,Intamin,Gothenburg,Västra Götalands,Sweden
+7,Banshee,Kings Island,Steel,Inverted,110.0,51.0,1260.0,B&M,Mason,Ohio,United States
+8,Beast,Kings Island,Wooden,Sit Down,104.0,34.0,2243.0,Charlie Dinn,Mason,Ohio,United States
+9,Behemoth,Canada's Wonderland,Steel,Sit Down,124.0,70.0,1621.0,B&M,Vaughan,Ontario,Canada
+12,Bizarro,Six Flags Great Adventure,Steel,Floorless,98.0,43.0,1214.0,B&M,Jackson,New Jersey,United States
+13,Bizarro,Six Flags New England,Steel,Sit Down,124.0,63.0,1646.0,Intamin,Agawam,Massachusetts,United States
+15,Blue Fire,Europa-Park,Steel,Sit Down,100.0,38.0,1056.0,Mack,Rust,Baden-Württemberg,Germany
+16,Blue Fire Megacoaster,Europa-Park,Steel,Sit Down,100.0,38.0,1056.0,Mack,Rust,Baden-Württemberg,Germany
+18,Blue Streak,Cedar Point,Wooden,Sit Down,64.0,24.0,780.0,Philadelphia Toboggan Coaster,Sandusky,Ohio,United States
+19,Boardwalk Bullet,Kemah Boardwalk,Wooden,Sit Down,82.0,29.0,986.0,Gravity Group,Kemah,Texas,United States
+20,Boss,Six Flags St. Louis,Wooden,Sit Down,106.0,46.0,1540.0,CCI,Eureka,Missouri,United States
+21,Boulder Dash,Lake Compounce,Wooden,Sit Down,97.0,35.0,1440.0,CCI,Bristol,Connecticut,United States
+22,Candymonium,Hersheypark,Steel,Sit Down,122.0,64.0,1413.0,B&M,Hershey,Pennsylvania,United States
+23,Cannibal,Lagoon,Steel,Sit Down,113.0,64.0,835.0,ART Engineering,Farmington,Utah,United States
+24,Coaster,PNE Playland,Wooden,Sit Down,75.0,20.0,865.0,na,Vancouver,British Columbia,Canada
+25,Colossos,Heide Park,Wooden,Sit Down,110.0,51.0,1500.0,Intamin,Soltau,Lower Saxony,Germany
+26,Comet,Waldameer,Wooden,Sit Down,40.0,11.0,396.0,Philadelphia Toboggan Coaster,Erie,Pennsylvania,United States
+27,Comet,Hersheypark,Steel,Sit Down,81.0,26.0,1024.0,Philadelphia Toboggan Coaster,Hershey,Pennsylvania,United States
+28,Comet,Six Flags Great Escape,Wooden,Sit Down,89.0,29.0,1279.0,Philadelphia Toboggan Coaster,Queensbury,New York,United States
+29,Cornball Express,Indiana Beach,Wooden,Sit Down,72.0,17.0,640.0,CCI,Monticello,Indiana,United States
+31,Cyclone,Coney Island,Wooden,Sit Down,97.0,26.0,869.0,na,Brooklyn,New York,United States
+32,Cyclone,Six Flags New England,Wooden,Sit Down,72.0,32.0,1100.0,William J. Cobb,Agawam,Massachusetts,United States
+34,Cú Chulainn,Tayto Park,Wooden,Sit Down,90.0,32.0,1094.0,Gravity Group,Ashbourne,Meath,Ireland
+35,Dania Beach Hurricane,Boomers!,Steel,Sit Down,81.0,31.0,975.0,Coaster Works,Boca Raton,Florida,United States
+36,Diamondback,Kings Island,Steel,Sit Down,129.0,70.0,1610.0,B&M,Mason,Ohio,United States
+37,Dominator,Kings Dominion,Steel,Floorless,105.0,48.0,1283.0,B&M,Doswell,Virginia,United States
+38,Dragon Challenge,Universal's Islands of Adventure,Steel,Inverted,97.0,38.0,975.0,B&M,Orlando,Florida,United States
+39,El Toro,Six Flags Great Adventure,Wooden,Sit Down,113.0,55.0,1341.0,Intamin,Jackson,New Jersey,United States
+40,El Toro,Freizeitpark Plohn,Wooden,Sit Down,75.0,28.0,750.0,GCI,Reichenbach/Vogtland,Saxony,Germany
+41,Euro-Mir,Europa-Park,Steel,Spinning,80.0,28.0,980.0,Mack,Rust,Baden-Württemberg,Germany
+42,Expedition Everest,Disney's Animal Kingdom,Steel,Sit Down,80.0,34.0,1341.0,Vekoma,Lake Buena Vista,Florida,United States
+43,Expedition GeForce,Holiday Park,Steel,Sit Down,120.0,53.0,1220.0,Intamin,Hassloch,Rhineland-Palatinate,Germany
+44,Flying Turns,Knoebels Amusement Resort,Wooden,Bobsleigh,39.0,15.0,396.0,Knoebels,Elysburg,Pennsylvania,United States
+45,Full Throttle,Six Flags Magic Mountain,Steel,Sit Down,112.0,48.0,670.0,Premier Rides,Valencia,California,United States
+46,Fury 325,Carowinds,Steel,Sit Down,153.0,99.0,2012.0,B&M,Charlotte,North Carolina,United States
+47,Galactica,Alton Towers,Steel,Flying,75.0,20.0,840.0,B&M,Stoke-on-Trent,England,United Kingdom
+48,GateKeeper,Cedar Point,Steel,Wing,108.0,52.0,1269.0,B&M,Sandusky,Ohio,United States
+49,Georgia Cyclone,Six Flags Over Georgia,Wooden,Sit Down,81.0,29.0,905.0,Dinn Corp.,Austell,Georgia,United States
+50,GhostRider,Knott's Berry Farm,Wooden,Sit Down,90.0,36.0,1382.0,GCI,Buena Park,California,United States
+51,Giant Dipper,Belmont Park,Wooden,Sit Down,89.0,22.0,793.0,na,San Diego,California,United States
+52,Giant Dipper,Santa Cruz Beach Boardwalk,Steel,Sit Down,89.0,21.0,805.0,na,Santa Cruz,California,United States
+53,Gold Striker,California's Great America,Wooden,Sit Down,87.0,33.0,975.0,GCI,Santa Clara,California,United States
+54,Goliath,Six Flags Great America,Wooden,Sit Down,115.0,55.0,950.0,RMC,Gurnee,Illinois,United States
+55,Goliath,Six Flags Magic Mountain,Steel,Sit Down,137.0,71.0,1370.0,Giovanola,Valencia,California,United States
+56,Goliath,Six Flags New England,Steel,Sit Down,106.0,58.0,367.0,Vekoma,Agawam,Massachusetts,United States
+57,Goliath,Walabi Holland,Steel,Sit Down,106.0,47.0,1214.0,Intamin,Biddinghuizen,Flevoland,Netherlands
+58,Goliath,Six Flags Over Georgia,Steel,Sit Down,112.0,61.0,1365.0,B&M,Austell,Georgia,United States
+59,Goliath,La Ronde,Steel,Sit Down,110.0,53.0,1231.0,B&M,Montreal,Quebec,Canada
+60,Goliath,Six Flags Fiesta Texas,Steel,Inverted,80.0,32.0,823.0,B&M,San Antonio,Texas,United States
+61,Grand National,Blackpool Pleasure Beach,Steel,Sit Down,64.0,19.0,1006.0,Charles Paige,Blackpool,England,United Kingdom
+62,Great American Scream Machine,Six Flags Great Adventure,Steel,Sit Down,109.0,53.0,1158.0,Arrow,Jackson,New Jersey,United States
+63,Great American Scream Machine,Six Flags Over Georgia,Wooden,Sit Down,92.0,32.0,1052.0,Philadelphia Toboggan Coaster,Austell,Georgia,United States
+64,Griffon,Busch Gardens Williamsburg,Steel,Floorless,120.0,62.0,950.0,B&M,Williamsburg,Virginia,United States
+65,Grizzly,California's Great America,Steel,Sit Down,89.0,28.0,991.0,Kings Island,Santa Clara,California,United States
+67,Gwazi,Busch Gardens Tampa,Wooden,Sit Down,81.0,27.0,1036.0,GCI,Tampa,Florida,United States
+68,Hades 360,Mt. Olympus Theme Park,Hybrid,Sit Down,113.0,42.0,1441.0,Gravity Group,Wisconsin Dells,Wisconsin,United States
+70,Helix,Liseberg,Steel,Sit Down,100.0,41.0,1381.0,Mack,Gothenburg,Västra Götalands,Sweden
+71,Incredible Hulk,Universal's Islands of Adventure,Steel,Sit Down,107.0,33.0,1127.0,B&M,Orlando,Florida,United States
+72,Incredicoaster,Disney California Adventure Park,Steel,Sit Down,88.0,33.0,1850.0,Intamin,Anaheim,California,United States
+73,Intimidator,Carowinds,Steel,Sit Down,120.0,71.0,1620.0,B&M,Charlotte,North Carolina,United States
+74,Intimidator 305,Kings Dominion,Steel,Sit Down,145.0,93.0,1555.0,Intamin,Doswell,Virginia,United States
+76,Iron Gwazi,Busch Gardens Tampa,Hybrid,Sit Down,76.0,65.0,1242.0,RMC,Tampa,Florida,United States
+77,Iron Rattler,Six Flags Fiesta Texas,Hybrid,Sit Down,113.0,55.0,996.0,RMC,San Antonio,Texas,United States
+78,Jack Rabbit,Kennywood,Steel,Sit Down,72.0,21.0,650.0,ACE Coaster Classic,West Mifflin,Pennsylvania,United States
+79,Jetline,Gröna Lund,Steel,Sit Down,90.0,32.0,800.0,Schwarzkopf,Stockholm,Stockholms,Sweden
+80,Joris en de Draak,Efteling,Wooden,Sit Down,75.0,22.0,788.0,GCI,Kaatsheuvel,North Brabant,Netherlands
+81,Jurassic World VelociCoaster,Universal's Islands of Adventure,Steel,Sit Down,70.0,47.24,1432.56,Intamin,Orlando,Florida,United States
+82,Katun,Mirabilandia,Steel,Inverted,104.0,50.0,1200.0,B&M,Savio,Emilia-Romagna,Italy
+83,Kentucky Rumbler,Beech Bend,Wooden,Sit Down,77.0,27.0,862.0,GCI,Bowling Green,Kentucky,United States
+84,Kingda Ka,Six Flags Great Adventure,Steel,Sit Down,206.0,139.0,950.0,Intamin,Jackson,New Jersey,United States
+85,Kraken,SeaWorld Orlando,Steel,Floorless,105.0,46.0,1273.0,B&M,Orlando,Florida,United States
+86,Kumba,Busch Gardens Tampa,Steel,Sit Down,96.0,43.0,1210.0,B&M,Tampa,Florida,United States
+87,Legend,Holiday World,Wooden,Sit Down,93.0,35.0,1232.0,CCI,Santa Claus,Indiana,United States
+88,Leviathan,Canada's Wonderland,Steel,Sit Down,148.0,93.0,1672.0,B&M,Vaughan,Ontario,Canada
+89,Lightning Racer,Hersheypark,Wooden,Sit Down,82.0,27.0,1036.0,GCI,Hershey,Pennsylvania,United States
+90,Lightning Rod,Dollywood,Wooden,Sit Down,118.0,50.0,1158.0,RMC,Pigeon Forge,Tennessee,United States
+91,Lightning Run,Kentucky Kingdom,Steel,Sit Down,90.0,31.0,765.0,Chance Rides,Louisville,Kentucky,United States
+92,Lisebergbanan,Liseberg,Steel,Sit Down,80.0,45.0,1548.0,Schwarzkopf,Gothenburg,Västra Götalands,Sweden
+93,Magnum XL-200,Cedar Point,Steel,Sit Down,116.0,63.0,1556.0,Arrow,Sandusky,Ohio,United States
+94,Mako,SeaWorld Orlando,Steel,Sit Down,115.0,61.0,1450.0,B&M,Orlando,Florida,United States
+95,Mamba,Worlds of Fun,Steel,Sit Down,120.0,63.0,1700.0,Morgan,Kansas City,Missouri,United States
+96,Manta,SeaWorld Orlando,Steel,Flying,97.0,43.0,1024.0,B&M,Orlando,Florida,United States
+97,Maverick,Cedar Point,Steel,Sit Down,113.0,32.0,1356.0,Intamin,Sandusky,Ohio,United States
+98,Mean Streak,Cedar Point,Wooden,Sit Down,100.0,49.0,1654.0,Dinn Corp.,Sandusky,Ohio,United States
+99,Medusa Steel Coaster,Six Flags Mexico,Hybrid,Sit Down,93.0,36.0,910.0,RMC,Mexico City,Distrito Federal,Mexico
+100,Megafobia,Oakwood Leisure Park,Wooden,Sit Down,77.0,26.0,901.0,CCI,Pembroke,Wales,United Kingdom
+101,Millennium Force,Cedar Point,Steel,Sit Down,150.0,94.0,2010.0,Intamin,Sandusky,Ohio,United States
+102,Mind Bender,Six Flags Over Georgia,Steel,Sit Down,81.0,25.0,992.0,Schwarzkopf,Austell,Georgia,United States
+103,Mindbender,Galaxyland,Steel,Sit Down,97.0,44.0,1280.0,Schwarzkopf,Edmonton,Alberta,Canada
+104,Mindbender,Six Flags Over Georgia,Steel,Sit Down,97.0,44.0,1280.0,Schwarzkopf,Austell,Georgia,United States
+105,Mine Blower,Fun Spot America,Wooden,Sit Down,78.0,25.0,698.0,Gravity Group,Orlando,Florida,United States
+106,Montu,Busch Gardens Tampa,Steel,Inverted,96.0,46.0,1214.0,B&M,Tampa,Florida,United States
+107,Mystic Timbers,Kings Island,Wooden,Sit Down,85.0,33.0,995.0,GCI,Mason,Ohio,United States
+108,Nemesis,Alton Towers,Steel,Inverted,81.0,13.0,716.0,B&M,Stoke-on-Trent,England,United Kingdom
+109,New Texas Giant,Six Flags Over Texas,Hybrid,Sit Down,105.0,47.0,1280.0,RMC,Arlington,Texas,United States
+110,Nitro,Six Flags Great Adventure,Steel,Sit Down,128.0,70.0,1644.0,B&M,Jackson,New Jersey,United States
+111,Olympia Looping,Weiner Prater,Steel,Sit Down,80.0,38.0,1250.0,Schwarzkopf,Vienna,Vienna,Austria
+113,Orion,Kings Island,Steel,Sit Down,91.0,87.4,1621.0,B&M,Mason,Ohio,United States
+115,Phantom's Revenge,Kennywood,Steel,Sit Down,132.0,70.0,975.0,Arrow,West Mifflin,Pennsylvania,United States
+116,Phoenix,Knoebels Amusement Resort,Wooden,Sit Down,72.0,24.0,975.0,Philadelphia Toboggan Coaster,Elysburg,Pennsylvania,United States
+117,Piraten,Djurs Sommerland,Steel,Sit Down,90.0,32.0,755.0,Intamin,Djursland,Central Denmark,Denmark
+118,Playland Wooden Coaster,PNE Playland,Wooden,Sit Down,75.0,20.0,865.0,na,Vancouver,British Columbia,Canada
+119,PowderKeg,Silver Dollar City,Steel,Sit Down,100.0,30.0,1068.0,S&S,Branson,Missouri,United States
+120,Prowler,Worlds of Fun,Wooden,Sit Down,82.0,31.0,937.0,GCI,Kansas City,Missouri,United States
+121,Quimera,La Feria,Steel,Sit Down,85.0,34.0,1050.0,Schwarzkopf,Mexico City,Distrito Federal,Mexico
+123,Raging Bull,Six Flags Great America,Steel,Sit Down,118.0,62.0,1542.0,B&M,Gurnee,Illinois,United States
+124,Rampage,Alabama Splash Adventure,Wooden,Sit Down,90.0,37.0,1067.0,CCI,Bessemer,Alabama,United States
+125,Raptor,Cedar Point,Steel,Inverted,92.0,42.0,1155.0,B&M,Sandusky,Ohio,United States
+126,Rattler,Six Flags Fiesta Texas,Wooden,Sit Down,104.0,54.0,1550.0,RCCA,San Antonio,Texas,United States
+127,Raven,Holiday World,Wooden,Sit Down,77.0,33.0,832.0,CCI,Santa Claus,Indiana,United States
+128,Ravine Flyer II,Waldameer,Hybrid,Sit Down,91.0,24.0,884.0,Gravity Group,Erie,Pennsylvania,United States
+130,Revenge of the Mummy,Universal's Islands of Adventure,Steel,Sit Down,65.0,14.0,670.0,Premier Rides,Orlando,Florida,United States
+131,Ride of Steel,Six Flags Darien Lake,Steel,Sit Down,112.0,63.0,1645.0,Intamin,Corfu,New York,United States
+132,Rutschebanan,Tivoli Gardens,Wooden,Sit Down,50.0,13.0,720.0,L.A. Thompson Scenic Railway,Copenhagen,Region Hovedstaden,Denmark
+133,Screamin' Eagle,Six Flags St. Louis,Wooden,Sit Down,100.0,34.0,1180.0,Philadelphia Toboggan Coaster,Eureka,Missouri,United States
+134,Shambhala,PortAventura,Steel,Sit Down,134.0,76.0,1564.0,B&M,Tarragona,Catalonia,Spain
+135,SheiKra,Busch Gardens Tampa,Steel,Floorless,113.0,61.0,972.0,B&M,Tampa,Florida,United States
+136,Shivering Timbers,Michigan's Adventure,Steel,Sit Down,92.0,37.0,1641.0,CCI,Muskegon,Michigan,United States
+137,Shock Wave,Six Flags Over Texas,Steel,Sit Down,96.0,35.0,1097.0,Schwarzkopf,Arlington,Texas,United States
+138,Sky Rocket,Kennywood,Steel,Sit Down,80.0,29.0,640.0,Premier Rides,West Mifflin,Pennsylvania,United States
+139,Skyrush,Hersheypark,Steel,Sit Down,120.0,60.0,1100.0,Intamin,Hershey,Pennsylvania,United States
+140,Space Mountain,Disneyland,Steel,Sit Down,52.0,23.0,1052.0,Dynamic Attractions,Anaheim,California,United States
+141,Steel Curtain,Kennywood,Steel,Sit Down,120.0,67.0,1220.0,S&S,West Mifflin,Pennsylvania,United States
+142,Steel Dragon 2000,Nagashima Spa Land,Steel,Sit Down,153.0,97.0,2479.0,Morgan,Kuwana,Mie,Japan
+143,Steel Eel,SeaWorld San Antonio,Steel,Sit Down,105.0,46.0,1128.0,Morgan,San Antonio,Texas,United States
+144,Steel Force,Dorney Park,Steel,Sit Down,120.0,61.0,1706.0,Morgan,Allentown,Pennsylvania,United States
+145,Steel Vengeance,Cedar Point,Hybrid,Sit Down,119.0,62.0,1750.0,RMC,Sandusky,Ohio,United States
+146,Storm Chaser,Kentucky Kingdom,Steel,Sit Down,84.0,31.0,836.0,RMC,Louisville,Kentucky,United States
+147,Storm Runner,Hersheypark,Steel,Sit Down,120.0,56.0,806.0,Intamin,Hershey,Pennsylvania,United States
+148,Superman: the Ride,Six Flags New England,Steel,Sit Down,124.0,63.0,1646.0,Intamin,Agawam,Massachusetts,United States
+149,Superman: The Ride,Six Flags New England,Steel,Sit Down,124.0,63.0,1646.0,Intamin,Agawam,Massachusetts,United States
+150,Superman Krypton Coaster,Six Flags Fiesta Texas,Steel,Floorless,113.0,51.0,1227.0,B&M,San Antonio,Texas,United States
+151,Superman The Ride,Six Flags New England,Steel,Sit Down,124.0,63.0,1646.0,Intamin,Agawam,Massachusetts,United States
+152,Superman Ride of Steel,Six Flags Great America,Steel,Sit Down,117.0,60.0,1630.0,Intamin,Gurnee,Illinois,United States
+153,Switchback,ZDT's,Wooden,Sit Down,66.0,20.0,365.0,Gravity Group,Seguin,Texas,United States
+154,T Express,Everland,Wooden,Sit Down,104.0,56.0,1641.0,Intamin,Seoul,Seoul,South Korea
+155,Taron,Phantasialand,Steel,Sit Down,117.0,30.0,1320.0,Intamin,Brühl,North Rhine-Westphalia,Germany
+156,Tatsu,Six Flags Magic Mountain,Steel,Flying,100.0,52.0,1097.0,B&M,Valencia,California,United States
+157,Texas Stingray,SeaWorld San Antonio,Wooden,Sit Down,55.0,30.48,1029.9,GCI,San Antonio,Texas,United States
+158,The Beast,Kings Island,Wooden,Sit Down,104.0,34.0,2243.0,Charlie Dinn,Mason,Ohio,United States
+159,The Big One,Blackpool Pleasure Beach,Steel,Sit Down,120.0,65.0,1675.0,Arrow,Blackpool,England,United Kingdom
+160,The Boss,Six Flags St. Louis,Wooden,Sit Down,106.0,46.0,1540.0,CCI,Eureka,Missouri,United States
+161,The Legend,Holiday World,Wooden,Sit Down,93.0,35.0,1232.0,CCI,Santa Claus,Indiana,United States
+162,The Raven,Holiday World,Wooden,Sit Down,77.0,33.0,832.0,CCI,Santa Claus,Indiana,United States
+164,The Voyage,Holiday World,Wooden,Sit Down,108.0,49.0,1963.0,Gravity Group,Santa Claus,Indiana,United States
+165,Thunderbird,Holiday World,Steel,Wing,100.0,43.0,925.0,B&M,Santa Claus,Indiana,United States
+166,Thunderbird,PowerPark,Wooden,Sit Down,75.0,27.0,850.0,GCI,Härmä,Western Finland,Finland
+167,Thunderbolt,Kennywood,Steel,Sit Down,89.0,29.0,880.0,ACE Coaster Classic,West Mifflin,Pennsylvania,United States
+169,Thunderhead,Dollywood,Wooden,Sit Down,89.0,31.0,985.0,GCI,Pigeon Forge,Tennessee,United States
+170,Timber Terror,Silverwood,Wooden,Sit Down,89.0,26.0,823.0,CCI,Athol,Idaho,United States
+171,Time Traveler,Silver Dollar City,Steel,Spinning,80.0,30.0,920.0,Mack,Branson,Missouri,United States
+172,Titan,Six Flags Over Texas,Steel,Sit Down,137.0,75.0,1619.0,Giovanola,Arlington,Texas,United States
+173,Tonnerre de Zeus,Parc Asterix,Wooden,Sit Down,84.0,30.0,1233.0,CCI,Plailly,Oise,France
+174,Top Thrill Dragster,Cedar Point,Steel,Sit Down,192.0,128.0,853.0,Intamin,Sandusky,Ohio,United States
+175,Tremors,Silverwood,Wooden,Sit Down,96.0,31.0,915.0,CCI,Athol,Idaho,United States
+176,TRON Lightcycle Power Run,Shanghai Disneyland,Steel,Motorbike,95.0,24.0,970.0,Vekoma,Pudong,Shanghai,China
+177,Troy,Toverland,Wooden,Sit Down,87.0,32.0,1077.0,GCI,Sevenum,Limburg,Netherlands
+178,Twisted Colossus,Six Flags Magic Mountain,Hybrid,Sit Down,92.0,37.0,1520.0,RMC,Valencia,California,United States
+179,Twisted Timbers,Kings Dominion,Hybrid,Sit Down,87.0,34.0,1024.0,RMC,Doswell,Virginia,United States
+180,Twister,Gröna Lund,Wooden,Sit Down,61.0,15.0,480.0,Gravity Group,Stockholm,Stockholms,Sweden
+181,Twister,Knoebels Amusement Resort,Wooden,Sit Down,83.0,31.0,1189.0,Philadelphia Toboggan Coaster,Elysburg,Pennsylvania,United States
+183,Viper,Six Flags Great America,Wooden,Sit Down,81.0,31.0,1054.0,Philadelphia Toboggan Coaster,Gurnee,Illinois,United States
+184,Volcano,Kings Dominion,Steel,Inverted,112.0,47.0,840.0,Intamin,Doswell,Virginia,United States
+185,Volcano: The Blast Coaster,Kings Dominion,Steel,Inverted,112.0,47.0,840.0,Intamin,Doswell,Virginia,United States
+186,Voyage,Holiday World,Wooden,Sit Down,108.0,49.0,1963.0,Gravity Group,Santa Claus,Indiana,United States
+187,White Lightning,Fun Spot America,Wooden,Sit Down,75.0,23.0,600.0,GCI,Orlando,Florida,United States
+188,Whizzer,Six Flags Great America,Steel,Sit Down,68.0,21.0,945.0,Schwarzkopf,Gurnee,Illinois,United States
+189,Wicked Cyclone,Six Flags New England,Hybrid,Sit Down,89.0,33.0,1012.0,RMC,Agawam,Massachusetts,United States
+190,Wild Eagle,Dollywood,Steel,Wing,98.0,64.0,953.0,B&M,Pigeon Forge,Tennessee,United States
+194,Wild Mouse,Lagoon,Steel,Sit Down,45.0,15.0,370.0,Maurer,Farmington,Utah,United States
+195,Wild Mouse,Hersheypark,Steel,Sit Down,45.0,14.0,370.0,Mack,Hershey,Pennsylvania,United States
+196,Wild Mouse,Dorney Park,Steel,Sit Down,45.0,15.0,370.0,Maurer,Allentown,Pennsylvania,United States
+197,Wild Mouse,Beech Bend,Steel,Sit Down,47.0,13.0,420.0,Zamperla,Bowling Green,Kentucky,United States
+198,Wild One,Six Flags Great America,Steel,Sit Down,85.0,30.0,1219.0,John Miller,Gurnee,Illinois,United States
+199,Wildfire,Silver Dollar City,Steel,Sit Down,106.0,37.0,937.0,B&M,Branson,Missouri,United States
+200,Wildfire,Kolmården,Wooden,Sit Down,113.0,57.0,1300.0,RMC,Kolmården,Östergötlands,Sweden
+201,Wodan,Europa-Park,Wooden,Sit Down,100.0,35.0,1050.0,GCI,Rust,Baden-Württemberg,Germany
+202,Wodan Timbur Coaster,Europa-Park,Wooden,Sit Down,100.0,35.0,1050.0,GCI,Rust,Baden-Württemberg,Germany
+203,Wood Coaster,Knight Valley,Wooden,Sit Down,99.0,45.0,1468.0,GCI,Shenzhen,Guangdong,China
+204,Wooden Warrior,Quassy Amusement Park,Wooden,Sit Down,56.0,11.0,378.0,Gravity Group,Middlebury,Connecticut,United States
+205,X2,Six Flags Magic Mountain,Steel,4th Dimension,122.0,53.0,1100.0,Arrow,Valencia,California,United States
+206,X-Flight,Six Flags Great America,Steel,Wing,90.0,37.0,915.0,B&M,Gurnee,Illinois,United States
+207,Yukon Striker,Canada's Wonderland,Steel,Sit Down,130.0,75.0,1105.0,B&M,Vaughan,Ontario,Canada
+208,Zadra,Energylandia,Hybrid,Sit Down,115.0,63.0,1300.0,RMC,Zator,Lesser Poland,Poland
+209,Zippin Pippin,Bay Beach Amusement Park,Wooden,Sit Down,68.0,21.0,715.0,Gravity Group,Green Bay,Wisconsin,United States
